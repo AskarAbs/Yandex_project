@@ -8,6 +8,7 @@ public class NewStory {
     public static void main(String[] args) {
         List<Integer> array1 = new ArrayList<>();
         List<Integer> array2  = new ArrayList<>();
+        int i = 10;
         extracted(array1);
         array2.add(array1.get(6));
         array2.add(array1.get(7));
